@@ -24,7 +24,7 @@
 ### 🛠️ Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,python,java,mysql,matlab,modelsim,vscode,github,arduino" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,python,java,mysql,matlab,modelsim,vscode,github" />
 </p>
 
 ---
