@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Sabari Nathan!
+## 👋 Hi there, I'm Sabari Nathan
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=ECE+Engineer+%7C+Problem+Solver;Front-End+Developer;&center=true&width=500&height=45" alt="Typing SVG">
