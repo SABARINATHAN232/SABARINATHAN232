@@ -9,9 +9,9 @@
 - 🔭 I’m currently working on **Embedded Systems** and **Web Development Projects**.
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 📚 Actively solving problems on [LeetCode](https://leetcode.com/u/SABARINATHAN7/) to improve skills.
-- 💡 I'm passionate about **IoT**, **8051 Microcontrollers**,**8086 microprocesso**, and **Matlab-based DSP Projects**.
+- 💡 I'm passionate about **IoT**, **8051 Microcontrollers**, **8086 microprocessor**, and **MATLAB-based DSP Projects**.
 - 🧩 I love building **real-time projects**.
-- 💬 Ask me about anything related to **C/java/python**, **HTML/CSS/JS**, **8086 & 8051 Assembly**, and **MATLAB**.
+- 💬 Ask me about anything related to **C/Java/Python**, **HTML/CSS/JS**, **8086 & 8051 Assembly**, and **MATLAB**.
 
 ---
 
@@ -24,7 +24,7 @@
 ### 🛠️ Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,mysql,matlab,modelsim,vscode,github,arduino" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,python,java,mysql,matlab,modelsim,vscode,github,arduino" />
 </p>
 
 ---
@@ -33,7 +33,6 @@
 
 - 🚦 8051-based **Smart Traffic Light System** with emergency vehicle detection simulation  
 - 🔊 **Gunshot Detection in Noisy Environments** using MATLAB DSP  
-
 
 ---
 
