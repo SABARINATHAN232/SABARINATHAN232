@@ -7,6 +7,7 @@
 ### 🧠 About Me
 
 - 🔭 I’m currently working on **Embedded Systems** and **Web Development Projects**.
+- 🌱 I’m currently learning **Full Stack Web Development**
 - 📚 Actively solving problems on [LeetCode](https://leetcode.com/u/SABARINATHAN7/) to improve skills.
 - 💡 I'm passionate about **IoT**, **8051 Microcontrollers**,**8086 microprocesso**, and **Matlab-based DSP Projects**.
 - 🧩 I love building **real-time projects**.
